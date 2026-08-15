@@ -1,34 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:5B21B6,100:7C3AED&height=180&section=header&text=AKSHAT%20PATIL&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Full-Stack+Developer;Backend+%26+AI%2FML+Enthusiast;Building+Scalable+Applications" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Final%20Year-B.Tech%20ICT-7C3AED?style=flat-square&labelColor=111827"/>
-<img src="https://img.shields.io/badge/PDEU-4F46E5?style=flat-square&labelColor=111827"/>
-<img src="https://img.shields.io/badge/India-6366F1?style=flat-square&labelColor=111827"/>
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:5B21B6,100:7C3AED&height=190&section=header&text=AKSHAT%20PATIL&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/akshat-patil-203471280/">
-<img src="https://img.shields.io/badge/LinkedIn-Akshat%20Patil-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:akshatpatil1705@gmail.com">
-<img src="https://img.shields.io/badge/Email-akshatpatil1705%40gmail.com-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Akshat1705">
-<img src="https://img.shields.io/badge/GitHub-Akshat1705-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/vu34auKW2X/">
+<img src="https://img.shields.io/badge/LeetCode-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Akshat1705&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Akshat1705?style=flat-square&color=6366F1&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Akshat1705?style=flat-square&color=8B5CF6&label=STARS"/>
 
 </div>
 
@@ -50,17 +39,15 @@ Final-year B.Tech (Information & Communication Technology) student at **Pandit D
 
 ## Tech Stack
 
-### Frontend & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,python,pytorch&theme=dark"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb&theme=dark"/>
-</p>
+| Category                | Technologies                       |
+| :---------------------- | :--------------------------------- |
+| **Languages**           | Java · Python · JavaScript         |
+| **Frontend Frameworks** | React                              |
+| **Backend Frameworks**  | Spring Boot · Node.js · Express.js |
+| **AI / ML**             | PyTorch                            |
+| **Databases**           | PostgreSQL · MongoDB · Redis       |
+| **Cloud**               | AWS                                |
+| **DevOps & Tools**      | Git · Docker · Postman             |
 
 ---
 
@@ -78,33 +65,17 @@ Final-year B.Tech (Information & Communication Technology) student at **Pandit D
 
 ---
 
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/vu34auKW2X/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Akshat1705">
-<img src="https://img.shields.io/badge/GitHub-Profile-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshat1705&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshat1705&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1705&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1705&layout=compact&hide_border=true&langs_count=6&theme=transparent&title_color=A78BFA&text_color=C9D1D9"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Akshat1705&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA"/>
+<img src="https://streak-stats.demolab.com/?user=Akshat1705&theme=transparent&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280"/>
 
 </div>
 
@@ -114,7 +85,7 @@ Final-year B.Tech (Information & Communication Technology) student at **Pandit D
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akshat1705&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Akshat1705&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
 
 </div>
 
@@ -134,27 +105,7 @@ Final-year B.Tech (Information & Communication Technology) student at **Pandit D
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Akshat1705/Akshat1705/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/akshat-patil-203471280/">
-<img src="https://img.shields.io/badge/LinkedIn-Akshat%20Patil-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:akshatpatil1705@gmail.com">
-<img src="https://img.shields.io/badge/Email-akshatpatil1705%40gmail.com-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Akshat1705">
-<img src="https://img.shields.io/badge/GitHub-Akshat1705-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/Akshat1705/Akshat1705/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
