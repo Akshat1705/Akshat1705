@@ -39,15 +39,19 @@ Final-year B.Tech (Information & Communication Technology) student at **Pandit D
 
 ## Tech Stack
 
-| Category                | Technologies                       |
-| :---------------------- | :--------------------------------- |
-| **Languages**           | Java · Python · JavaScript         |
-| **Frontend Frameworks** | React                              |
-| **Backend Frameworks**  | Spring Boot · Node.js · Express.js |
-| **AI / ML**             | PyTorch                            |
-| **Databases**           | PostgreSQL · MongoDB · Redis       |
-| **Cloud**               | AWS                                |
-| **DevOps & Tools**      | Git · Docker · Postman             |
+<div align="center">
+
+|  **Category** |                                       **Technologies**                                      |
+| :-----------: | :-----------------------------------------------------------------------------------------: |
+| **Languages** |      <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" height="45"/>      |
+|  **Frontend** |           <img src="https://skillicons.dev/icons?i=react&theme=dark" height="45"/>          |
+|  **Backend**  |   <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" height="45"/>  |
+|  **AI / ML**  |          <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="45"/>         |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis&theme=dark" height="45"/> |
+|   **Cloud**   |            <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="45"/>           |
+|   **Tools**   |    <img src="https://skillicons.dev/icons?i=git,docker,postman&theme=dark" height="45"/>    |
+
+</div>
 
 ---
 
@@ -55,57 +59,11 @@ Final-year B.Tech (Information & Communication Technology) student at **Pandit D
 
 <div align="center">
 
-| Recognition         | Details                                        |
-| :------------------ | :--------------------------------------------- |
-| **LeetCode**        | 170+ problems solved                           |
+|   **Recognition**   | **Details**                                    |
+| :-----------------: | :--------------------------------------------- |
+|     **LeetCode**    | 170+ problems solved                           |
 | **Career Fest 3.0** | Contributed to an event with 700+ participants |
-| **Sponsorship**     | Helped secure ₹2L+ in sponsorships             |
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshat1705&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1705&layout=compact&hide_border=true&langs_count=6&theme=transparent&title_color=A78BFA&text_color=C9D1D9"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Akshat1705&theme=transparent&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akshat1705&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat1705&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Akshat1705/Akshat1705/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+|   **Sponsorship**   | Helped secure ₹2L+ in sponsorships             |
 
 </div>
 
